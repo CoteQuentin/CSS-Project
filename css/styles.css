@@ -1,0 +1,176 @@
+
+
+body {
+  margin: 0;
+  font-family: trebuchet ms, sans-serif;
+  text-align: center;
+}
+
+.first-hr {
+  border-style: solid none none;
+  border-width: 2px;
+  border-radius: 25%;
+  color: #4B5995;
+  margin: 0;
+  width: 100%;
+}
+
+hr {
+  border-style: dotted none none;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-width: 8px;
+  color: #4B5995;
+  background-color: transparent;
+  width: 10%;
+}
+
+h1 {
+  color: #F1D00A;
+  font-family: 'Satisfy', sans-serif;
+  padding-top: 40px;
+  font-size: 5.75rem;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.subtitle {
+  color: #F0F0F0;
+  font-family: 'Handlee', serif;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #F1D00A;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  color: #F0F0F0;
+
+}
+
+.top-container {
+  background-color: #3E497A;
+  margin: 0;
+  position: relative;
+  padding-top: 75px;
+}
+
+.middle-container {
+  background-color: #21325E;
+  padding-bottom: 25px;
+}
+
+.profile {
+  padding: 25px 0 100px;
+}
+
+.my-skills {
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin-bottom: 100px;
+}
+
+.skills {
+  padding: 100px 0 0;
+}
+
+.skill-row {
+  padding: 30px 0 30px;
+  width: 50%;
+  padding-bottom: 50px;
+  margin: auto;
+}
+
+.skill-heading {
+  margin: 10px auto 30px;
+}
+
+.profile-pic {
+  height: 300px;
+  margin: 100px auto 50px;
+}
+
+.html-pic {
+  height: 150px;
+}
+
+.css-pic {
+  width: 125px;
+}
+
+.gimp-pic {
+  width: 200px;
+}
+
+.python-pic {
+  width: 125px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(199, 204, 219);
+  line-height: 2;
+}
+
+.contact-me {
+  background-color: #10182D;
+  padding-bottom: 55px;
+}
+
+.in-touch {
+  padding-top: 30px;
+}
+
+.bottom-container {
+  background-color: #10182D;
+}
+
+.top-cloud {
+  position: absolute;
+  margin-top: 50px;
+  top: 50px;
+  right: 450px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 425px;
+  bottom: 310px;
+}
+
+.subtitle {
+  margin-top: 0;
+  margin-bottom: 45px;
+  font-size: 1.5rem;
+}
+
+.mountain {
+  margin: 0 auto;
+  display: block;
+}
+
+.bottom-hr {
+  border-top-style: solid;
+  border-width: 1px;
+  color: #F1D00A;
+  width: 100%;
+}
+
+.copyright {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 25px;
+}
+
+.last-p {
+  padding: 10px 0;
+}
+
+a {
+  color: #788FCE;
+}
